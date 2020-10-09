@@ -6,6 +6,7 @@ function WelcomeScreen(props) {
         <ImageBackground
             style={styles.background}
             source={require('../assets/background.jpg')}></ImageBackground>
+        //
     );
 }
 
